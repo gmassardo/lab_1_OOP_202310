@@ -2,3 +2,4 @@ Hola me llamo Gonzalo.
 Ya no tengo 20 años
 Adiós muchas gracias.
 Cambiando el archivo
+Tercer cambio con el txt ignore.
