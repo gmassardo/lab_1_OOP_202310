@@ -1,3 +1,4 @@
-Hola me llamo Gonzalo Massardo
-Tengo 20 años
-Adiós 
+Hola me llamo Gonzalo. 
+Ya no tengo 20 años
+Adiós muchas gracias.
+Cambiando el archivo
